@@ -1,3 +1,3 @@
 Move-object-with-keyboard
 
-Based on SFML
+Based on SFML library
