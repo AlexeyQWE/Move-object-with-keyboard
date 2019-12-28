@@ -1,3 +1,3 @@
-Move-object-with-keyboard
+Move object with keyboard
 
 Based on SFML library
